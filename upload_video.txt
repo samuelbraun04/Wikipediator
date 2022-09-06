@@ -1,0 +1,5 @@
+python upload_video.py --file="" \
+                       --title="" \
+                       --description="" \
+                       --category="27" \
+                       --privacyStatus="public"
