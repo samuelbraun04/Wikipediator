@@ -2,7 +2,7 @@
 
 ### STATUS:
 
-*Wikipediator is in still in development. Currently, the script cannot generate a video – but it can get all the required ingredients. The video-making process will be made sometime in the near future.*
+*Wikipediator is in still in development.*
 
 ### DESCRIPTION:
 
